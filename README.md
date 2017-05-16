@@ -1,2 +1,2 @@
-# dnd-catalog
-Drink and Dinner - Catalog
+# dnd
+Drink and Dinner
