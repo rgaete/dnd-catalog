@@ -1,0 +1,21 @@
+{
+  "events" : [
+    {
+      "name" : "Evento con el rulo",
+      "description" : "El mejor evento de santiago con la mejor compañia",
+      "date" : "2017-07-07",
+      "time" : "19:00",
+      "price" : "15000",
+      "currency" : "CLP",
+      "address" : {
+        "description" : "Quebrada de macul 8829",
+        "geographicData" : {"lat" : 123131231, "long" : 123123123}
+      },
+      "state" : "active",
+      "invitation" : "image.jpg",
+      "badges" : [1,2,3],
+      "planner" : { "id" : 1 },
+      "guestList" : { "id" : 1 }
+    }
+  ]
+}
